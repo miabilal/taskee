@@ -1,6 +1,11 @@
 # taskee
 
-A new Flutter project.
+A new Flutter ToDo App project with Hive Database and Async Programming.
+
+FEatures:
+Add Task
+Check -Uncheck Task
+Delete Task
 
 ## Getting Started
 
